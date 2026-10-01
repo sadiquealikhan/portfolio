@@ -81,7 +81,7 @@ As a Network Systems Engineer within the Cisco IT Data Center Networking team, m
 
 Below is the visual blueprint tracking how my hands-on portfolio aligns with Cisco's modern solution landscape:
 
-![Cisco Multi-Tier Operational Architecture Blueprint](/Users/saalikha/Downloads/image_be1ccb00.jpg)
+![Cisco Multi-Tier Operational Architecture Blueprint](image_ecosystem.jpg)
 
 ### Architectural Integration Breakdown
 
@@ -101,6 +101,6 @@ Below is the visual blueprint tracking how my hands-on portfolio aligns with Cis
 * **Portfolio Alignment:** **ThousandEyes**, **Splunk**, **Zabbix**, **GitHub**, **Terraform**, and **Python**.
 * **Day-1 & Day-2 Execution:** I designed our operational model around the core principle that *every layer is structurally dependent on real-time, push-based Model-Driven Telemetry (MDT)*. I track end-to-end data center health by deploying custom collectors, piping structured logs into Splunk/Zabbix to reduce MTTR, and engineering Python automation workflows to handle engineering paperwork and compliance documentation directly within our GitHub repositories.
 
-![Cisco Multi-Tier Operational Stack Blueprint](/Users/saalikha/Downloads/image_9c14db8c.jpg)
+![Cisco Multi-Tier Operational Stack Blueprint](image_stack.jpg)
 
 ---
